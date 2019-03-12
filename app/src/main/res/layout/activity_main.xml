@@ -19,6 +19,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.45" />
 
+
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
@@ -27,4 +28,11 @@
         tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="100dp" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BUTTON"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="100dp" />
 </android.support.constraint.ConstraintLayout>
